@@ -2,10 +2,9 @@
 
 Repository for HW assignments of Stat 133 (Fall 2017)
 
-- Student name: First Last
-- Github username: usrname
-- Lab section: 101
-- GSI: Leia Organa
+- Student name: Sidney Le
+- Github username: sidneyle
+- Lab section: Lab Assistant for Lab 108
 
 -----
 
